@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3715
     wikipedia: http://en.wikipedia.org/wiki/Frederic_William_Farrar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44103#The-Expositor-s-Bible--The-Book-of-Daniel
 gutenberg_issued: '2013-11-04'
 gutenberg_type: Text
 identifiers:
